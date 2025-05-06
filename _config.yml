@@ -2,7 +2,7 @@ title: Alicia Talaveera
 logo: assets/img/avatar.png
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 
 navigation:
   - title: Inicio
@@ -11,3 +11,10 @@ navigation:
     url: /proyectos/
 
 show_nav: true
+
+include:
+  - pages
+  
+header_pages:
+  - _pages/proyectos.md
+  - experiencia.md
