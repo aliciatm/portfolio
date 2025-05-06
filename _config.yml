@@ -3,3 +3,11 @@ logo: assets/img/avatar.png
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+nav:
+  - title: "Formación"
+    url: /formacion/
+  - title: "Experiencia"
+    url: /experiencia/
+  - title: "Proyectos"
+    url: /proyectos/
