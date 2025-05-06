@@ -3,5 +3,9 @@ logo: assets/img/avatar.png
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
+
 header_pages:
   - _pages/proyectos.md
+
+include:
+  - _pages
