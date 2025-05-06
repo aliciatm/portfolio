@@ -2,10 +2,12 @@
 
 ## 👩‍🎓 Formación
 
-- **Grado en Sociología** – Universidad de Granada (2019–2023)  
+- **Grado en Sociología**
+*Universidad de Granada | 2019 – 2023* 
   Nota media: 8,7
 
-- **Máster en Ciencias Sociales Computacionales** – Universidad Carlos III de Madrid (2023–2024)  
+- **Máster en Ciencias Sociales Computacionales**
+*Universidad Carlos III de Madrid | 2023 – 2024* 
   - R, Python, SQL  
   - Análisis de datos sociales  
   - Limpieza y procesamiento de datos  
