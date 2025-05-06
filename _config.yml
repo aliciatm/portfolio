@@ -2,7 +2,7 @@ title: Alicia Talavera
 logo: assets/img/avatar.png
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 
 navigation:
   - title: Inicio
@@ -10,4 +10,4 @@ navigation:
   - title: Proyectos
     url: /proyectos/
 
-    show_nav: true
+show_nav: true
