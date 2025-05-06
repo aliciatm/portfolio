@@ -1,6 +1,6 @@
 # Portfolio
 
-## 👩‍🎓 Fogmación
+## 👩‍🎓 Formación
 
 - **Grado en Sociología**
 *Universidad de Granada | 2019 – 2023* 
