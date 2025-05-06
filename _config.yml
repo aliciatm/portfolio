@@ -3,7 +3,6 @@ logo: assets/img/avatar.png
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
-
 header_pages:
   - formacion.md
   - experiencia.md
