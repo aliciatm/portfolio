@@ -1,8 +1,8 @@
-title: Alicia Talavera
+title: Alicia Talaveera
 logo: assets/img/avatar.png
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-minima
+theme: jekyll-theme-hacker
 
 navigation:
   - title: Inicio
