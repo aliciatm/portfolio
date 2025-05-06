@@ -6,6 +6,6 @@ theme: jekyll-theme-minimal
 include:
   - _pages
 header_pages:
-  - _pages/proyectos.md
+  - proyectos.md
 include:
   - _pages
