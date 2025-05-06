@@ -4,6 +4,4 @@ logo: assets/img/avatar.png
 #show_downloads: true
 theme: jekyll-theme-minimal
 header_pages:
-  - formacion.md
-  - experiencia.md
-  - proyectos.md
+  - pages/proyectos.md
