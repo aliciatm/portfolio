@@ -3,9 +3,11 @@ logo: assets/img/avatar.png
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
-include:
-  - _pages
-header_pages:
-  - proyectos.md
-include:
-  - _pages
+
+navigation:
+  - title: Inicio
+    url: /
+  - title: Proyectos
+    url: /proyectos/
+
+    show_nav: true
