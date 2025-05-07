@@ -29,7 +29,7 @@ En el repositorio se encuentra la sintaxis en SPSS que utilicé para llevar a ca
 <p><strong>Resultados</strong>:</p>
 <p>Se encuentra que la prevalencia de alquiler es alta entre la juventud analizada. Las condiciones de alquiler varían según el contexto residencial (cuantía, localización, etc.).</p>
 <p>En la regresión logística, destacan como variables significativas el <strong>nivel educativo</strong>, el <strong>género</strong> y la <strong>nacionalidad</strong>.</p>
-<img src="assets/img/modelo_logit.png" alt="Gráfico de regresión" width="600">
+<img src="assets/img/modelo_logit.png" alt="Gráfico de regresión" width="450">
 <img src="assets/img/en_regresion.png" alt="Otro gráfico relevante">
 </details>
 
