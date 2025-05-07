@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Proyectos
-permalink: /proyectos/
+permalink: portfolio/proyectos/
 ---
 
 ## Mis Proyectos
