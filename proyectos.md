@@ -1,6 +1,5 @@
 ---
 layout: default
-layout: page
 title: Proyectos
 permalink: /proyectos/
 ---
@@ -35,7 +34,7 @@ En el repositorio se encuentra la sintaxis en SPSS que utilicé para llevar a ca
 Se encuentra que la prevalencia de alquiler es alta entre la juventud analizada. Las condiciones de alquiler varían según el contexto residencial (cuantía, localización, etc.).  
 En la regresión logística, destacan como variables significativas el **nivel educativo**, el **género** y la **nacionalidad**.
 
-![Gráfico de regresión](assets/imag/en_regresion.png)  
+![Gráfico de regresión](assets/imag/modelo_logit.png)  
 ![Otro gráfico relevante](assets/imag/en_regresion.png)
 
 </details>
