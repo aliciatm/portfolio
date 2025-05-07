@@ -1,11 +1,23 @@
 ---
-layout: page
+layout: default
 title: Proyectos
-permalink: portfolio/proyectos/
+permalink: /proyectos/
 ---
 
-## Mis Proyectos
+# 📁 Proyectos
 
-### [TFG – El alquiler como estrategia de emancipación residencial de los jóvenes](https://github.com/aliciatm/Sintaxis-TFG-alquiler-jovenes)
-Este repositorio contiene los archivos de datos y el código SPSS para la limpieza y análisis de los datos utilizados en mi TFG.
+Aquí puedes explorar algunos de los proyectos en los que he trabajado, con enlaces a repositorios y descripciones breves.
 
+---
+
+## 🏠 Sintaxis-TFG-alquiler-jovenes
+
+**Título:** El alquiler como estrategia de emancipación residencial de los jóvenes  
+**Descripción:**  
+Este repositorio contiene los archivos de datos y el código empleado en SPSS para la limpieza y el análisis de los datos utilizados en mi Trabajo de Fin de Grado.
+
+📎 [Ver en GitHub](https://github.com/aliciatm/Sintaxis-TFG-alquiler-jovenes)
+
+---
+
+*Más proyectos próximamente...*
