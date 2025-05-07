@@ -1,14 +1,14 @@
-title: Alicia Talaveera
+title: Alicia Talavera
 logo: assets/img/avatar.png
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 
 navigation:
   - title: Inicio
     url: /
   - title: Proyectos
-    url: /proyectos/
+    url: porftolio/proyectos/
 
 show_nav: true
 
