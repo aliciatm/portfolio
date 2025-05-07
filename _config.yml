@@ -5,3 +5,5 @@ logo: assets/img/avatar.png
 theme: jekyll-theme-minimal
 header_pages:
   - proyectos.md
+include:
+  - _data
