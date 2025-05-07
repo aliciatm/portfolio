@@ -26,16 +26,13 @@ En el repositorio se encuentra la sintaxis en SPSS que utilicé para llevar a ca
 
 <details>
 <summary><strong>Más detalles y resultados</strong></summary>
-
-
-**Resultados**:  
-Se encuentra que la prevalencia de alquiler es alta entre la juventud analizada. Las condiciones de alquiler varían según el contexto residencial (cuantía, localización, etc.).  
-En la regresión logística, destacan como variables significativas el **nivel educativo**, el **género** y la **nacionalidad**.
-
-![Gráfico de regresión](assets/imag/modelo_logit.png)  
-![Otro gráfico relevante](assets/imag/en_regresion.png)
-
+<p><strong>Resultados</strong>:</p>
+<p>Se encuentra que la prevalencia de alquiler es alta entre la juventud analizada. Las condiciones de alquiler varían según el contexto residencial (cuantía, localización, etc.).</p>
+<p>En la regresión logística, destacan como variables significativas el <strong>nivel educativo</strong>, el <strong>género</strong> y la <strong>nacionalidad</strong>.</p>
+<img src="assets/imag/modelo_logit.png" alt="Gráfico de regresión">
+<img src="assets/imag/en_regresion.png" alt="Otro gráfico relevante">
 </details>
+
 
 👉 [Ver repositorio en GitHub](https://github.com/aliciatm/Sintaxis-TFG-alquiler-jovenes)
 
