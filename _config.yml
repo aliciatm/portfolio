@@ -3,18 +3,6 @@ logo: assets/img/avatar.png
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
-
-navigation:
-  - title: Inicio
-    url: /
-  - title: Proyectos
-    url: porftolio/proyectos/
-
-show_nav: true
-
-include:
-  - pages
-  
 header_pages:
-  - _pages/proyectos.md
-  - experiencia.md
+  - proyectos.md
+  - contacto.md
