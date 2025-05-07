@@ -1,23 +1,15 @@
 ---
-layout: default
+layout: page
 title: Proyectos
 permalink: /proyectos/
 ---
 
-# 📁 Proyectos
+## Trabajo de Fin de Grado: El alquiler como estrategia de emancipación residencial de los jóvenes
 
-Aquí puedes explorar algunos de los proyectos en los que he trabajado, con enlaces a repositorios y descripciones breves.
+Este repositorio contiene los archivos de datos y el código empleado en SPSS para la limpieza y el análisis de los datos utilizados en mi Trabajo de Fin de Grado: *El alquiler como estrategia de emancipación residencial de los jóvenes*.
 
----
+Se utilizan los datos de la **Encuesta Jóvenes y Vivienda**, elaborada por el Centro de Investigaciones Sociológicas (CIS) en 2010. En este proyecto se investiga el fenómeno del aumento del alquiler entre las personas jóvenes.
 
-## 🏠 Sintaxis-TFG-alquiler-jovenes
+Primero, desarrollé un análisis descriptivo para examinar la prevalencia del alquiler juvenil y las condiciones asociadas, como la cuantía, localización y características residenciales. A continuación, llevé a cabo una **regresión logística binaria** para explorar cómo distintas variables —como el género, la nacionalidad o el nivel de estudios— afectan a la probabilidad de que una persona joven emancipada resida en régimen de propiedad o de alquiler.
 
-**Título:** El alquiler como estrategia de emancipación residencial de los jóvenes  
-**Descripción:**  
-Este repositorio contiene los archivos de datos y el código empleado en SPSS para la limpieza y el análisis de los datos utilizados en mi Trabajo de Fin de Grado.
-
-📎 [Ver en GitHub](https://github.com/aliciatm/Sintaxis-TFG-alquiler-jovenes)
-
----
-
-*Más proyectos próximamente...*
+👉 [Ver repositorio en GitHub](https://github.com/aliciatm/Sintaxis-TFG-alquiler-jovenes)
