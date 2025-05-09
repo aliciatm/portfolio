@@ -4,6 +4,11 @@ Soy Alicia Talavera, socióloga especializada en el análisis de datos. Manejo h
 
 Consulta aquí mi CV y [mis proyectos de forma más detallada](https://aliciatm.github.io/portfolio/proyectos/)
 
+📫 **Contacto:** 
+
+✉ Correo electrónico : alicia16.tm@gmail.com / 🌐 [LinkedIn](https://www.linkedin.com/in/alicia-talavera-marcos-12060427b/)
+
+
 ## 👩‍🎓 Formación
 
 - **Máster en Ciencias Sociales Computacionales**
@@ -85,4 +90,8 @@ Formación Profesional, centrada en **analizar las diferencias entre municipios 
 
 ---
 
-📫 Contacto: *(aquí puedes poner tu email o redes si lo deseas)*
+## 📫 Contacto: 
+
+✉ Correo electrónico : alicia16.tm@gmail.com
+
+🌐 [LinkedIn](https://www.linkedin.com/in/alicia-talavera-marcos-12060427b/)
