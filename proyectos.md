@@ -62,5 +62,5 @@ En el repositorio se puede consultar la sintaxis en SPSS que utilicé para lleva
 👉 [Ver repositorio en GitHub](https://github.com/aliciatm/Sintaxis-TFG-alquiler-jovenes)
 
 
-<img src="assets/img/modelo_logit.png" alt="Gráfico de regresión" width="450">
+<img src="assets/img/reg_laboral.png" alt="Régimen de tenencia x Relación Laboral" width="450">
 
