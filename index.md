@@ -74,9 +74,13 @@ Formación Profesional, centrada en **analizar las diferencias entre municipios 
 últimos años, partiendo de datos de fuentes oficiales como el **INE**.
 
 • Limpieza y procesamiento de datos cuantitativos con R y SPSS
+
 • Aplicación de técnicas de análisis estadístico: modelo de regresión lineal, análisis de clusters
+
 • Obtención de datos mediante 'data scrapping'
+
 • Visualización de datos y desarrollo de una app de R Shiny para una visualización interactiva
+
 
 👉 [Ver repositorio en GitHub](https://github.com/aliciatm/TFM_2024_aliciatm)
 
