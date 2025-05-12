@@ -11,16 +11,15 @@ Consulta aquí mi CV y [mis proyectos de forma más detallada](https://aliciatm.
 
 📫 **Contacto:** 
 
-✉ Correo electrónico : alicia16.tm@gmail.com / 🌐 [LinkedIn](https://www.linkedin.com/in/alicia-talavera-marcos-12060427b/)
-
+✉ Correo electrónico : alicia16.tm@gmail.com / 
 <p>
-  <a href="https://github.com/tuusuario" target="_blank" title="GitHub">
+  <a href="https://github.com/aliciatm" target="_blank" title="GitHub">
     <i class="fab fa-github fa-2x"></i>
   </a>
-  <a href="https://linkedin.com/in/tuusuario" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/alicia-talavera-marcos-12060427b/" target="_blank" title="LinkedIn">
     <i class="fab fa-linkedin fa-2x"></i>
   </a>
-  <a href="mailto:tucorreo@example.com" title="Email">
+  <a href="mailto:alicia16.tm@gmail.com" title="Email">
     <i class="fas fa-envelope fa-2x"></i>
   </a>
 </p>
