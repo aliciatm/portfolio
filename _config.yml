@@ -7,8 +7,3 @@ header_pages:
   - proyectos.md
 include:
   - _data
-social_links:
-  - name: GitHub
-    url: https://github.com/aliciatm/
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/alicia-talavera-marcos-12060427b/
