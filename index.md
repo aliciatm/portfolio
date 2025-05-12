@@ -35,7 +35,7 @@ Nota media: 8,7
 
 Más información de cada proyecto [aquí](https://aliciatm.github.io/portfolio/proyectos/).
 
-### Asistente de Investigación y Comunicación Científica  
+### Técnica de Investigación, Proyectos y Comunicación  
 *Granada | Septiembre 2024 – Abril 2025*
 
 En este puesto desarrollé tareas en **tres áreas** principales: investigación, gestión de proyectos y comunicación.
@@ -54,22 +54,15 @@ En este puesto desarrollé tareas en **tres áreas** principales: investigación
 *Julio – Agosto 2024*
 
 Colaboración con Aiteco Consultores en un proyecto de la Oficina de Información y Atención al Ciudadano del Cabildo
-de Lanzarote, enfocado en el análisis de encuestas de satisfacción de usuarios.
+de Lanzarote, enfocado en el **análisis de encuestas de satisfacción** de usuarios.
 
-• Análisis descriptivo, de correlación y regresión de componentes principales para identificar factores clave y
-priorizar áreas de mejora en la atención al ciudadano.
+• Análisis **descriptivo**, de **correlación** y **regresión de componentes principales** para identificar factores clave y
+**priorizar áreas de mejora** en la atención al ciudadano.
 
-• Procesamiento y limpieza de datos en R.
+• Procesamiento y limpieza de datos en **R**.
 
-• Visualización de datos y generación de informes.
+• **Visualización** de datos y redacción de **informes**.
 
-• Análisis de encuestas de satisfacción para el Cabildo de Lanzarote.
-
-• Análisis descriptivo, correlacional y de componentes principales.
-
-• Procesamiento de datos en R.
-
-• Creación de visualizaciones y redacción de informes.
 
 ---
 
@@ -80,9 +73,10 @@ Investigación sociológica cuantitativa realizada en el marco de una Beca de Co
 Formación Profesional, centrada en **analizar las diferencias entre municipios en el aumento del alquiler juvenil** en los
 últimos años, partiendo de datos de fuentes oficiales como el **INE**.
 
-• Procesamiento y análisis de datos en R y SPSS.
-• Data scraping y visualización.
-• Desarrollo de una app interactiva en R Shiny.  
+• Limpieza y procesamiento de datos cuantitativos con R y SPSS
+• Aplicación de técnicas de análisis estadístico: modelo de regresión lineal, análisis de clusters
+• Obtención de datos mediante 'data scrapping'
+• Visualización de datos y desarrollo de una app de R Shiny para una visualización interactiva
 
 👉 [Ver repositorio en GitHub](https://github.com/aliciatm/TFM_2024_aliciatm)
 
