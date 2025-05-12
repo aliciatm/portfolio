@@ -13,6 +13,21 @@ Consulta aquí mi CV y [mis proyectos de forma más detallada](https://aliciatm.
 
 ✉ Correo electrónico : alicia16.tm@gmail.com / 🌐 [LinkedIn](https://www.linkedin.com/in/alicia-talavera-marcos-12060427b/)
 
+<p>
+  <a href="https://github.com/tuusuario" target="_blank" title="GitHub">
+    <i class="fab fa-github fa-2x"></i>
+  </a>
+  <a href="https://linkedin.com/in/tuusuario" target="_blank" title="LinkedIn">
+    <i class="fab fa-linkedin fa-2x"></i>
+  </a>
+  <a href="mailto:tucorreo@example.com" title="Email">
+    <i class="fas fa-envelope fa-2x"></i>
+  </a>
+</p>
+
+<!-- Cargar iconos de Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 
 ## 👩‍🎓 Formación
 
