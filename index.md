@@ -3,7 +3,7 @@ layout: default
 title: Portfolio
 ---
 
-# Alicia Talavera
+# Mi portfolio
 
 Soy Alicia Talavera, socióloga especializada en el análisis de datos. Manejo herramientas como R, SPSS, SQL o Python.
 
