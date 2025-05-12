@@ -2,7 +2,7 @@ title: Alicia Talavera
 #logo: assets/img/avatar.png
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal-mistakes
 header_pages:
   - proyectos.md
 include:
