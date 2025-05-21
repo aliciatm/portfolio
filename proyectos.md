@@ -36,8 +36,6 @@ Para visualizar los resultados, desarrollé una aplicación en **Shiny** en la q
 👉 [Ver repositorio en GitHub](https://github.com/aliciatm/TFM_2024_aliciatm)
 
 
-<img src="assets/img/dif_ownership.png" alt="Diferencia de propiedad 2011-2021" width="550"/>
-<img src="assets/img/dif_ownership.png" alt="Diferencia de propiedad 2011-2021" width="550" />
 <img src="../assets/img/dif_ownership.png" alt="Diferencia de propiedad 2011-2021" width="550" />
 
 
@@ -50,7 +48,7 @@ Para evitar el problema mencionado anteriormente, en el cuestionario no se pregu
 
 Además, realicé un **análisis descriptivo** de los datos mediante tablas cruzadas y visualizaciones generadas en R para facilitar la interpretación de los resultados y aportar claridad sobre las tendencias en la satisfacción de los usuarios. Finalmente, toda la información procesada y los resultados obtenidos fueron presentados a través de un informe detallado, los cuales sirvieron como base para implementar mejoras en la calidad de la atención al ciudadano.
 
-<img src="assets/img/areas_mejora.png" alt="Áreas de mejora" width="550"/>
+<img src="../assets/img/areas_mejora.png" alt="Áreas de mejora" width="550"/>
 
 
 ## Trabajo de Fin de Grado: El alquiler como estrategia de emancipación residencial de los jóvenes
@@ -64,5 +62,5 @@ En el repositorio se puede consultar la sintaxis en SPSS que utilicé para lleva
 👉 [Ver repositorio en GitHub](https://github.com/aliciatm/Sintaxis-TFG-alquiler-jovenes)
 
 
-<img src="assets/img/reg_laboral.png" alt="Régimen de tenencia x Relación Laboral" width="450">
+<img src="../assets/img/reg_laboral.png" alt="Régimen de tenencia x Relación Laboral" width="450">
 
