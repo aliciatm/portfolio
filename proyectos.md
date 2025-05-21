@@ -37,7 +37,8 @@ Para visualizar los resultados, desarrollé una aplicación en **Shiny** en la q
 
 
 <img src="assets/img/dif_ownership.png" alt="Diferencia de propiedad 2011-2021" width="550"/>
-![Diferencia de propiedad 2011-2021](assets/img/dif_ownership.png)
+<img src="assets/img/dif_ownership.png" alt="Diferencia de propiedad 2011-2021" width="550" />
+<img src="../assets/img/dif_ownership.png" alt="Diferencia de propiedad 2011-2021" width="550" />
 
 
 ## Análisis de Satisfacción de los Usuarios: Identificación de Factores Clave para Mejorar la Atención al Ciudadano
