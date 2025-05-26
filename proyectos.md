@@ -17,7 +17,7 @@ Aquí se puede explorar algunos de los proyectos en los que he trabajado, con en
 
 ---
 
-## La caída de la propiedad de vivienda entre los jóvenes en España: diferencias entre municipios
+## La bajada en la prevalencia de la propiedad de la vivienda entre los jóvenes en España: diferencias entre municipios
 Investigación sociológica cuantitativa realizada en el marco de una Beca de Colaboración del Ministerio de Educación y
 Formación Profesional, centrada en **analizar las diferencias entre municipios en el aumento del alquiler juvenil** en los
 últimos años. Mi objetivo era conocer si, pese a que en España se observa una disminución generalizada de la propiedad de vivienda entre la población joven emancipada, **¿esto ocurre en todo el territorio?** ¿En qué municipios o regiones no ocurre esto? ¿A qué variables o **características regionales** podría atribuirse esta diferencia?
