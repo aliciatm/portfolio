@@ -4,8 +4,7 @@ title: Alicia Talavera
 #show_downloads: true
 minimal_mistakes_skin: default
 
-navigation:
-  - name: main
-  items: navigation.yml
+navigation: main
+
 include:
   - _data
