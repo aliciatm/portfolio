@@ -3,8 +3,7 @@ title: Alicia Talavera
 #description: text below image
 #show_downloads: true
 minimal_mistakes_skin: default
-header_pages:
-  - proyectos.md
+
 navigation:
   - name: main
   items: navigation.yml
