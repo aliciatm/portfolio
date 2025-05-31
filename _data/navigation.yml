@@ -1,2 +1,9 @@
-- title: "Proyectos"
-  url: "/portfolio/proyectos"
+main:
+  - title: "💼 Portfolio"
+    url: /portfolio/
+
+  - title: "📁 Proyectos"
+    url: /portfolio/proyectos/
+
+  - title: "🇬🇧 English"
+    url: /index-en/
