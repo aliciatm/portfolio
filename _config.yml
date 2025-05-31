@@ -5,5 +5,8 @@ title: Alicia Talavera
 minimal_mistakes_skin: default
 header_pages:
   - proyectos.md
+navigation:
+  - name: main
+  items: navigation.yml
 include:
   - _data
